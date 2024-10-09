@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Noah 👋
 
-<!--
-**Krayyyy/Krayyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at the University of Bordeaux in the LP ADSILLH program, passionate about the fields of space exploration and health.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning
+- 💼 Enrolled in the Professional License ADSILLH at the University of Bordeaux (a complex acronym for Administration and Development of Information Systems based on Free and Hybrid Software)
+
+## My Projects
+
+Here are some of the projects I've worked on:
+
+1. CyberNestor Project - Supervision of a server infrastructure
+
+## Skills
+
+- Languages: C, C++, Python, BASH
+- Tools: Git, Docker
+
+## Contact Me
+
+- 🌐 Website: www.noahlaburu.xyz *(under construction)*
+- 💼 LinkedIn: https://fr.linkedin.com/in/noah-laburu
