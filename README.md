@@ -9,5 +9,5 @@ I'm a 🇫🇷 student at the University of Bordeaux in the LP ADSILLH program, 
 
 ## Contact Me
 
-- 🌐 Website: www.noahlaburu.xyz *(under construction)*
+- 🌐 Website: www.noahlaburu.xyz
 - 💼 LinkedIn: https://fr.linkedin.com/in/noah-laburu
