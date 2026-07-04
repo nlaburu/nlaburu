@@ -1,13 +1,16 @@
 # Hello, I'm Noah 👋
 
-I'm a 🇫🇷 student at the University of Bordeaux in the LP ADSILLH program, passionate about the fields of space exploration and health.
+👨‍💻 SysNetAdmin based in Bordeaux, France 🇫🇷  
+Passionate about open-source, DevNetOps, and scalable systems.  
+Also interested in space exploration and health (yeah, I'm a nerd)
 
 ## About Me
 
-- 🌱 Currently learning
-- 💼 Enrolled in the Professional License ADSILLH at the University of Bordeaux (a complex acronym for Administration and Development of Information Systems based on Free and Hybrid Software)
+🎓 Graduate of the Bachelor’s degree ASSR-ADSILLH (Administration and Development of Information Systems based on Free and Hybrid Software) at the University of Bordeaux 🍷
 
-## Contact Me
+💡 I work in systems and network administration with a strong focus on open-source ecosystems, automation, and infrastructure engineering.
 
-- 🌐 Website: www.noahlaburu.fr
-- 💼 LinkedIn: https://fr.linkedin.com/in/noah-laburu
+## Contact
+
+- 🌐 Website: https://www.noahlaburu.fr  
+- 💼 LinkedIn: https://www.linkedin.com/in/noah-laburu
