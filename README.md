@@ -1,6 +1,6 @@
 # Hello, I'm Noah 👋
 
-👨‍💻 SysNetAdmin from Bordeaux, France 🇫🇷  but currently in NYC 🇺🇸
+👨‍💻 SysNetAdmin from Bordeaux, France 🇫🇷  but currently in NYC 🇺🇸.
 Passionate about open-source, DevNetOps, and scalable systems.  
 Also interested in space exploration and health (yeah, I'm a nerd)
 
